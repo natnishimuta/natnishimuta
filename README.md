@@ -1,8 +1,8 @@
-## Hi there 👋 My name is Nathália Nishimuta. 
+## Hi there 👋 My name is Nathalia Nishimuta. 
 
   I have two daughters and would like to spend less time taking care of the house.
 
-- 📚 I’m currently learning the hole FrontEnd hoadmap
+- 📚 I’m currently learning how to programming
 - 💁 I’m looking for help with my first job in the area
 - 💎 Fun fact: my daughters have names of precious gemstones: Sapphire and Ruby. 
 
@@ -12,7 +12,9 @@
   <img align="center" alt="nah-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nah-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nah-React" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+  <img align="center" alt="nah-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="nah-Csharp" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"">
+ </div>
 
 ###
 <div>
